@@ -1,0 +1,15 @@
+html,body{
+    margin:0;
+}
+
+.draw{
+    border:10px;
+    border-color:black;
+    border-style: double;
+}
+
+.adjust{
+    position: absolute;
+    left:1100px;
+    top:10px;
+}
